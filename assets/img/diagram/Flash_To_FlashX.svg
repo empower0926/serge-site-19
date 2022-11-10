@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21280" height="5926.752" viewBox="0 0 21280 5926.752">
+  <g id="Flash_To_FlashX" transform="translate(-1304 -6172)">
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="21280" height="5704" transform="translate(1304 6172)" fill="none"/>
+    <g id="Group_77" data-name="Group 77" transform="translate(-4090)">
+      <g id="Flash" transform="translate(-9959 5452)">
+        <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(19370 1605)" fill="none" stroke="#707070" stroke-width="100">
+          <rect width="4684" height="955" rx="237" stroke="none"/>
+          <rect x="50" y="50" width="4584" height="855" rx="187" fill="none"/>
+        </g>
+        <line id="Line_1" data-name="Line 1" x2="937.037" transform="translate(19838.518 2082.94)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(21057 1992)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="93.5" cy="90.5" rx="93.5" ry="90.5" stroke="none"/>
+          <ellipse cx="93.5" cy="90.5" rx="93" ry="90" fill="none"/>
+        </g>
+        <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(21525 1992)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94.5" cy="90.5" rx="94.5" ry="90.5" stroke="none"/>
+          <ellipse cx="94.5" cy="90.5" rx="94" ry="90" fill="none"/>
+        </g>
+        <line id="Line_2" data-name="Line 2" y2="869.419" transform="translate(22999.904 1605.48)" fill="none" stroke="#707070" stroke-width="100"/>
+        <line id="Line_3" data-name="Line 3" y2="869.419" transform="translate(23498.602 1605.48)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(19371 2672)" fill="none" stroke="#707070" stroke-width="100">
+          <rect width="4683" height="955" rx="237" stroke="none"/>
+          <rect x="50" y="50" width="4583" height="855" rx="187" fill="none"/>
+        </g>
+        <line id="Line_4" data-name="Line 4" x2="937.037" transform="translate(19839.629 3148.655)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(21057 3058)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94" cy="91" rx="94" ry="91" stroke="none"/>
+          <ellipse cx="94" cy="91" rx="93.5" ry="90.5" fill="none"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(21527 3058)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="93.5" cy="91" rx="93.5" ry="91" stroke="none"/>
+          <ellipse cx="93.5" cy="91" rx="93" ry="90.5" fill="none"/>
+        </g>
+        <line id="Line_5" data-name="Line 5" y2="869.419" transform="translate(23001.018 2671.194)" fill="none" stroke="#707070" stroke-width="100"/>
+        <line id="Line_6" data-name="Line 6" y2="869.419" transform="translate(23499.713 2671.194)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(19371 3736)" fill="none" stroke="#707070" stroke-width="100">
+          <rect width="4686" height="955" rx="237" stroke="none"/>
+          <rect x="50" y="50" width="4586" height="855" rx="187" fill="none"/>
+        </g>
+        <line id="Line_7" data-name="Line 7" x2="937.037" transform="translate(19840.742 4214.368)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(21059 4124)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94.5" cy="90" rx="94.5" ry="90" stroke="none"/>
+          <ellipse cx="94.5" cy="90" rx="94" ry="89.5" fill="none"/>
+        </g>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(21527 4124)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94.5" cy="90" rx="94.5" ry="90" stroke="none"/>
+          <ellipse cx="94.5" cy="90" rx="94" ry="89.5" fill="none"/>
+        </g>
+        <line id="Line_8" data-name="Line 8" y2="869.419" transform="translate(23002.127 3736.908)" fill="none" stroke="#707070" stroke-width="100"/>
+        <line id="Line_9" data-name="Line 9" y2="869.419" transform="translate(23500.826 3736.908)" fill="none" stroke="#707070" stroke-width="100"/>
+      </g>
+      <g id="arrow" transform="translate(10421.746 -355.5)">
+        <line id="Line_21" data-name="Line 21" x2="2580.44" transform="translate(4071.5 8956.5)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Polygon_1" data-name="Polygon 1" transform="translate(7290.434 8557.5) rotate(90)">
+          <path id="Path_1" data-name="Path 1" d="M398.5,0,797,727.894H0Z" fill="none"/>
+          <path id="Path_2" data-name="Path 2" d="M398.5,208.241,168.752,627.894h459.5L398.5,208.241M398.5,0,797,727.894H0Z" fill="#707070"/>
+        </g>
+      </g>
+      <path id="Path_32" data-name="Path 32" d="M-429.9-193.4V-30.81h180.5V83H-429.9V349.467h-98.911V-308.119h301.142V-193.4Zm253.892,542.87V-344.25h95.446V349.467ZM269.717,228.88q0,41.551,3.465,67.294a233.637,233.637,0,0,0,10.4,45.616v7.678H188.131q-6.3-17.614-9.135-43.809Q146.551,358.5,93.631,358.5a98.28,98.28,0,0,1-58.59-18.969Q8.58,320.562-6.7,287.141t-15.278-75.424q0-77.23,40.005-119.007T135.841,50.934h38.745V23.384q0-33.873-11.97-52.616t-35.91-18.743q-21.735,0-33.863,14.678T80.716,8.48H-14.415q0-43.809,18.113-79.488a139.9,139.9,0,0,1,51.345-56.455q33.233-20.775,76.7-20.775,40.32,0,71.506,19.42t48.825,58.261q17.64,38.841,17.64,94.844Zm-154.666,26.2a56.045,56.045,0,0,0,36.54-12.872,75.509,75.509,0,0,0,23-31.389V129.067h-36.23q-33.075,0-49.3,20.55T72.84,203.136q0,23.034,11.5,37.486t30.711,14.453ZM451.158,153.908Q330.2,116.873,330.2,4.415q0-41.551,16.538-76.327a135.057,135.057,0,0,1,47.723-55.552q31.185-20.775,72.766-20.775,43.785,0,76.546,20.1t50.4,56q17.64,35.905,17.64,81.972H516.679q0-29.357-12.285-45.841T466.908-52.491q-20.79,0-33.233,14T421.233-2.359q0,21.227,14.018,34.325T482.973,54.1q40.32,10.839,68.355,28.227t44.573,48.1q16.538,30.711,16.538,78.134,0,42.906-17.8,77a131.632,131.632,0,0,1-50.715,53.519q-32.918,19.42-76.388,19.42-45.99,0-79.538-24.163a155.319,155.319,0,0,1-51.03-62.1A186.762,186.762,0,0,1,319.487,193.2h89.776q.945,35.228,17.64,52.164t42.84,16.936q24.255,0,37.328-13.323t13.073-35.9q0-14-5.828-23.711t-20.79-18.291Q478.563,162.489,451.158,153.908ZM851.526-148.239q53.55,0,83.318,45.616T964.612,43.256V349.467H869.481V42.353q0-44.261-13.073-62.326T816.561-38.039q-38.115,0-54.81,39.744V349.467H666.62V-344.25h95.13V-86.816q17.01-29.808,39.848-45.615a85.9,85.9,0,0,1,49.928-15.808Z" transform="translate(11536.813 11740.25)" fill="#666"/>
+      <path id="Path_33" data-name="Path 33" d="M-576.03-193.4V-30.81h180.5V83h-180.5V349.467h-98.911V-308.119H-373.8V-193.4Zm253.892,542.87V-344.25h95.446V349.467ZM123.59,228.88q0,41.551,3.465,67.294a233.634,233.634,0,0,0,10.4,45.616v7.678H42q-6.3-17.614-9.135-43.809Q.424,358.5-52.5,358.5a98.28,98.28,0,0,1-58.59-18.969q-26.46-18.969-41.738-52.39T-168.1,211.717q0-77.23,40.005-119.007T-10.286,50.934H28.459V23.384q0-33.873-11.97-52.616t-35.91-18.743q-21.735,0-33.863,14.678T-65.411,8.48h-95.131q0-43.809,18.113-79.488a139.906,139.906,0,0,1,51.345-56.455q33.233-20.775,76.7-20.775,40.32,0,71.5,19.42T105.95-70.557q17.64,38.841,17.64,94.844Zm-154.666,26.2A56.045,56.045,0,0,0,5.464,242.2a75.509,75.509,0,0,0,23-31.389V129.067H-7.766q-33.075,0-49.3,20.55t-16.223,53.519q0,23.034,11.5,37.486t30.713,14.453ZM305.031,153.908Q184.07,116.873,184.07,4.415q0-41.551,16.538-76.327a135.057,135.057,0,0,1,47.723-55.552q31.185-20.775,72.766-20.775,43.785,0,76.546,20.1t50.4,56q17.64,35.905,17.64,81.972H370.552q0-29.357-12.285-45.841T320.781-52.491q-20.79,0-33.233,14T275.106-2.359q0,21.227,14.018,34.325T336.846,54.1q40.32,10.839,68.356,28.227t44.573,48.1q16.538,30.711,16.538,78.134,0,42.906-17.8,77A131.632,131.632,0,0,1,397.8,339.08q-32.918,19.42-76.388,19.42-45.99,0-79.538-24.163a155.32,155.32,0,0,1-51.03-62.1A186.763,186.763,0,0,1,173.36,193.2h89.776q.945,35.228,17.64,52.164t42.84,16.936q24.255,0,37.328-13.323t13.073-35.9q0-14-5.828-23.711T347.4,171.07Q332.436,162.489,305.031,153.908ZM705.4-148.239q53.55,0,83.318,45.616T818.485,43.256V349.467H723.354V42.353q0-44.261-13.073-62.326T670.434-38.039q-38.115,0-54.81,39.744V349.467H520.493V-344.25h95.131V-86.816q17.01-29.808,39.848-45.615A85.9,85.9,0,0,1,705.4-148.239Zm434.073-159.88h113.086L1120.57,17.964l135.451,331.5H1141.68l-85.366-227.626L970.946,349.467H856.6l135.451-331.5L860.065-308.119h113.4l82.846,223.561Z" transform="translate(20021.941 11740.25)" fill="#666"/>
+      <g id="FlashX" transform="translate(-1401 5452)">
+        <g id="Rectangle_4-2" data-name="Rectangle 4" transform="translate(19370 1605)" fill="none" stroke="#707070" stroke-width="100">
+          <rect width="4684" height="955" rx="237" stroke="none"/>
+          <rect x="50" y="50" width="4584" height="855" rx="187" fill="none"/>
+        </g>
+        <line id="Line_1-2" data-name="Line 1" x2="937.037" transform="translate(19838.518 2082.94)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Ellipse_2-2" data-name="Ellipse 2" transform="translate(21057 1992)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="93.5" cy="90.5" rx="93.5" ry="90.5" stroke="none"/>
+          <ellipse cx="93.5" cy="90.5" rx="93" ry="90" fill="none"/>
+        </g>
+        <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(21525 1992)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94.5" cy="90.5" rx="94.5" ry="90.5" stroke="none"/>
+          <ellipse cx="94.5" cy="90.5" rx="94" ry="90" fill="none"/>
+        </g>
+        <line id="Line_2-2" data-name="Line 2" y2="869.419" transform="translate(22999.904 1605.48)" fill="none" stroke="#707070" stroke-width="100"/>
+        <line id="Line_3-2" data-name="Line 3" y2="869.419" transform="translate(23498.602 1605.48)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Rectangle_5-2" data-name="Rectangle 5" transform="translate(19371 2672)" fill="none" stroke="#707070" stroke-width="100">
+          <rect width="4683" height="955" rx="237" stroke="none"/>
+          <rect x="50" y="50" width="4583" height="855" rx="187" fill="none"/>
+        </g>
+        <line id="Line_4-2" data-name="Line 4" x2="937.037" transform="translate(19839.629 3148.655)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(21057 3058)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94" cy="91" rx="94" ry="91" stroke="none"/>
+          <ellipse cx="94" cy="91" rx="93.5" ry="90.5" fill="none"/>
+        </g>
+        <g id="Ellipse_5-2" data-name="Ellipse 5" transform="translate(21527 3058)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="93.5" cy="91" rx="93.5" ry="91" stroke="none"/>
+          <ellipse cx="93.5" cy="91" rx="93" ry="90.5" fill="none"/>
+        </g>
+        <line id="Line_5-2" data-name="Line 5" y2="869.419" transform="translate(23001.018 2671.194)" fill="none" stroke="#707070" stroke-width="100"/>
+        <line id="Line_6-2" data-name="Line 6" y2="869.419" transform="translate(23499.713 2671.194)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Rectangle_6-2" data-name="Rectangle 6" transform="translate(19371 3736)" fill="none" stroke="#707070" stroke-width="100">
+          <rect width="4686" height="955" rx="237" stroke="none"/>
+          <rect x="50" y="50" width="4586" height="855" rx="187" fill="none"/>
+        </g>
+        <line id="Line_7-2" data-name="Line 7" x2="937.037" transform="translate(19840.742 4214.368)" fill="none" stroke="#707070" stroke-width="100"/>
+        <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(21059 4124)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94.5" cy="90" rx="94.5" ry="90" stroke="none"/>
+          <ellipse cx="94.5" cy="90" rx="94" ry="89.5" fill="none"/>
+        </g>
+        <g id="Ellipse_7-2" data-name="Ellipse 7" transform="translate(21527 4124)" fill="#707070" stroke="#707070" stroke-width="1">
+          <ellipse cx="94.5" cy="90" rx="94.5" ry="90" stroke="none"/>
+          <ellipse cx="94.5" cy="90" rx="94" ry="89.5" fill="none"/>
+        </g>
+        <line id="Line_8-2" data-name="Line 8" y2="869.419" transform="translate(23002.127 3736.908)" fill="none" stroke="#707070" stroke-width="100"/>
+        <line id="Line_9-2" data-name="Line 9" y2="869.419" transform="translate(23500.826 3736.908)" fill="none" stroke="#707070" stroke-width="100"/>
+      </g>
+    </g>
+  </g>
+</svg>

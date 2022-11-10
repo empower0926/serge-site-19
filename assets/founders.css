@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300&display=swap");
+* {
+  outline: none !important;
+}
+
+:root {
+  font-size: 16px;
+}
+
+::-webkit-scrollbar {
+  width: 0.25rem;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1c1f24;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 25px;
+  background: #f1b500;
+}
+
+.nav-parent {
+  position: absolute;
+}
+
+body {
+  font-family: "Heebo", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1d242f;
+}
+
+body * {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  margin-top: 5rem;
+  text-align: center;
+  color: white;
+}
+
+main {
+  width: 100%;
+  min-height: 100vh;
+  background-color: black;
+  position: relative;
+  top: 0;
+  left: 0;
+  -webkit-perspective: 1000;
+          perspective: 1000;
+}
+
+main .bio,
+main .full-bio {
+  -webkit-transform-origin: center;
+          transform-origin: center;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+main .bio {
+  background-color: royalblue;
+}
+
+main .full-bio {
+  -webkit-transform: rotateY(90deg);
+          transform: rotateY(90deg);
+  background-color: red;
+}
+
+main .bio-img img {
+  width: 100%;
+}
+
+main button {
+  margin-top: 2rem;
+}
+
+main .turn-left {
+  -webkit-transform: rotateY(0deg) !important;
+          transform: rotateY(0deg) !important;
+}
+
+main .turn-right {
+  -webkit-transform: rotateY(180deg) !important;
+          transform: rotateY(180deg) !important;
+}
+
+.footer {
+  color: white;
+  background-color: #15181d;
+}
+
+.footer ul {
+  padding: 0;
+}
+
+.footer ul li {
+  list-style: none;
+}
+
+.footer ul li .a-btn {
+  color: #f1b500;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  font-size: 1rem;
+}
+
+.footer ul li .a-btn:hover {
+  text-decoration: none;
+  background-color: #f1b500;
+  padding: 0 1.2rem;
+  border-radius: 50px;
+  color: white !important;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.footer .btn-gold {
+  background-color: #f1b500;
+  font-weight: bold;
+}
+
+.footer .form-control {
+  background-color: #1d242f;
+  border-color: #2f3a4a;
+  border-radius: 0.15rem;
+  color: white;
+}
+/*# sourceMappingURL=founders.css.map */

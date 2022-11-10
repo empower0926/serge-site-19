@@ -1,0 +1,39 @@
+.footer {
+    color: white;
+    background-color: #15181d;
+
+    ul {
+        padding: 0;
+
+        li {
+            list-style: none;
+
+            .a-btn {
+                color: #f1b500;
+                transition: 0.3s;
+                font-size: 1rem; 
+
+                &:hover {
+                    text-decoration: none;
+                    background-color: #f1b500;
+                    padding: 0 1.2rem;
+                    border-radius: 50px;
+                    color: white !important;
+                    transition: 0.3s;
+                }
+            }
+        }
+    }
+
+    .btn-gold {
+        background-color: #f1b500;
+        font-weight: bold;
+    }
+
+    .form-control {
+        background-color: $bg;
+        border-color: #2f3a4a;
+        border-radius: 0.15rem;
+        color: white;
+    }
+}

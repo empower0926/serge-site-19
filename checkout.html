@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OZTCARD: Checkout</title>
+    <script src="https://js.stripe.com/v3/"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet"
+        href="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.css">
+    <link rel="stylesheet" href="assets/style.css">
+    <style>
+        input {
+            outline: none;
+            width: 100%;
+            border-radius: 2px;
+            border: none;
+            /* border: 1px solid rgb(185, 185, 185); */
+            padding: 6px;
+            margin-bottom: 1rem;
+        }
+
+        #submit {
+            width: 100%;
+            margin-top: 1rem;
+            padding: 6px;
+            border: none;
+            outline: none;
+            background-color: #f1b500;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <main>
+        <div class="container">
+            <div class="row justify-content-center" style="min-height: 100vh !important">
+                <div class="col-sm-4 my-auto ">
+                    <form id="payment-form">
+                        <div><input type="text" placeholder="First Name"></div>
+                        <div><input type="text" placeholder="Last Name"></div>
+                        <div><input type="number" placeholder="Phone"></div>
+                        <div id="card-element"></div>
+                        <div id="card-errors" role="alert"></div>
+                        <button id="submit">Pay</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="assets/order.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
